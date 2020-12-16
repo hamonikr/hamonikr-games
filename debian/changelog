@@ -1,0 +1,6 @@
+hamonikr-games (1.0.0) jin; urgency=medium
+
+  * first commit
+    - Added KMines, KReversi, KSudoku, Knights
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 16 Dec 2020 11:18:22 +0900
