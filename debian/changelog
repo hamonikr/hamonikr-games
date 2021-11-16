@@ -1,3 +1,9 @@
+hamonikr-games (1.0.1) hanla; urgency=medium
+
+  * Added kmahjongg
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 14 Oct 2021 10:31:57 +0900
+
 hamonikr-games (1.0.0) jin; urgency=medium
 
   * first commit
