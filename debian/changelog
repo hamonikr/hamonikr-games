@@ -1,3 +1,9 @@
+hamonikr-games (1.0.2) stable; urgency=medium
+
+  * Added hanme-taja, hog-taja
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 11 Nov 2022 16:02:03 +0900
+
 hamonikr-games (1.0.1) hanla; urgency=medium
 
   * Added kmahjongg
